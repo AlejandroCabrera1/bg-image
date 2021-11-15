@@ -1,0 +1,15 @@
+div{
+	border: 7px solid darkblue;
+	border-radius: 20px;
+	bakground-color: blue;
+	padding: 100px;
+	padding-right: 250px;
+	background-repeat: no-repeat;
+	background-image: url("../acr_bg_images/pantera.jpg");
+	background-size: 100% 100%;
+	display: inline-block;
+}
+
+div:hover{
+	background-image: url("../acr_bg_images/rottweiler.jpg");
+}
